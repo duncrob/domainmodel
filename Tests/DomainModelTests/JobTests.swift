@@ -40,8 +40,8 @@ class JobTests: XCTestCase {
   
     static var allTests = [
         ("testCreateSalaryJob", testCreateSalaryJob),
-        ("testCreateHourlyJob", testCreateHourlyJob),
-        ("testSalariedRaise", testSalariedRaise),
-        ("testHourlyRaise", testHourlyRaise),
+//        ("testCreateHourlyJob", testCreateHourlyJob),
+//        ("testSalariedRaise", testSalariedRaise),
+//        ("testHourlyRaise", testHourlyRaise),
     ]
 }
